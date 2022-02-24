@@ -1,0 +1,14 @@
+.addressInput {
+  margin: -4px 0;
+  max-width: 100%;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.actions button:not(:last-child) {
+  margin-right: 12px;
+}

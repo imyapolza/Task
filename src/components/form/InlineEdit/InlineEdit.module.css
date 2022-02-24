@@ -1,0 +1,20 @@
+.field {
+  border: none;
+  font: inherit;
+  padding: 4px;
+  border-radius: 4px;
+  resize: none;
+  height: auto;
+}
+
+.field:hover {
+  cursor: pointer;
+}
+
+.field:focus {
+  cursor: auto;
+}
+
+.label:hover {
+  cursor: pointer;
+}
